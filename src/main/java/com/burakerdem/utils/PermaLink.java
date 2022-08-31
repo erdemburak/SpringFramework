@@ -1,7 +1,5 @@
 package com.burakerdem.utils;
 
 public class PermaLink {
-
-    //GİTHUB : 
-
+    //GİTHUB : https://github.com/erdemburak/SpringFramework
 }

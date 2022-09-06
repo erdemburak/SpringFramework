@@ -1,4 +1,4 @@
-package com.burakerdem.qualifier;
+package com.burakerdem.qualifier2;
 
 import javax.inject.Qualifier;
 import java.lang.annotation.Documented;

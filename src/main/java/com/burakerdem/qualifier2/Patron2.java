@@ -1,4 +1,4 @@
-package com.burakerdem.qualifier;
+package com.burakerdem.qualifier2;
 
 @QualifierMultiple
 public class Patron2 implements PatronInterface {

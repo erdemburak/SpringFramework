@@ -1,4 +1,4 @@
-package com.burakerdem.qualifier;
+package com.burakerdem.qualifier2;
 
 import javax.enterprise.inject.Default;
 

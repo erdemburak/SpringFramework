@@ -1,4 +1,4 @@
-package com.burakerdem.qualifier;
+package com.burakerdem.qualifier3;
 
 public interface PatronInterface {
     //@Alternative : aynı anda sadece 1 tane proje çalışıyor diğerleri kapalı.

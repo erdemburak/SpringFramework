@@ -15,4 +15,8 @@
         <class>com.burakerdem.aop.interceptor.InterceptorYolKesiciAsilIs</class>
     </interceptors>
 
+    <!--Decorator-->
+    <decorators>
+        <class>com.burakerdem.aop.decorator.EvDecorator</class>
+    </decorators>
 </beans>

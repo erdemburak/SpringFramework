@@ -27,7 +27,7 @@ public class JavaTutorials {
         // Enum
         // Multithread
 
-        // S.O.L.I.D
+        // S.O.L.I.D  1- Single Responsibility 2-
         // KISS
         // DRY - Dont Repeat Yourself
         // MONAD - Bir methodun çıktısı başka bir methodun girdisi anlamına gelir

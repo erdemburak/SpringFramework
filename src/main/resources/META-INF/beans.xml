@@ -9,4 +9,10 @@
             <!--<class>com.burakerdem.alternative.Patron1</class>-->
             <class>com.burakerdem.alternative.Patron2</class>
     </alternatives>
+
+    <!--Interceptor-->
+    <interceptors>
+        <class>com.burakerdem.aop.interceptor.InterceptorYolKesiciAsilIs</class>
+    </interceptors>
+
 </beans>
